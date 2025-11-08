@@ -14,10 +14,10 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-display font-bold text-gray-900 mb-6">
-              À propos de l'ATPNE
+              À propos de l&apos;ATPNE
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              L'Association Tunisienne de Protection de la Nature et de l'Environnement de Korba 
+              L&apos;Association Tunisienne de Protection de la Nature et de l&apos;Environnement de Korba 
               œuvre depuis plus de 10 ans pour la préservation de notre patrimoine naturel.
             </p>
           </div>
@@ -29,13 +29,13 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl font-display font-bold text-gray-900 mb-6">
+                <h2 className="text-3xl font-display font-bold text-gray-900 mb-6">
                 Notre mission
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                L'ATPNE a pour mission de protéger, préserver et valoriser la nature et l'environnement 
-                dans la région de Korba. Nous agissons à travers l'éducation, la sensibilisation, 
-                la recherche et l'action directe sur le terrain.
+                L&apos;ATPNE a pour mission de protéger, préserver et valoriser la nature et l&apos;environnement 
+                dans la région de Korba. Nous agissons à travers l&apos;éducation, la sensibilisation, 
+                la recherche et l&apos;action directe sur le terrain.
               </p>
               <div className="space-y-4">
                 <div className="flex items-start space-x-3">
@@ -80,8 +80,8 @@ export default function AboutPage() {
               Notre histoire
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Fondée en 2014 par un groupe de citoyens passionnés, l'ATPNE est née d'une préoccupation 
-              grandissante pour l'état de l'environnement local à Korba.
+              Fondée en 2014 par un groupe de citoyens passionnés, l&apos;ATPNE est née d&apos;une préoccupation 
+              grandissante pour l&apos;état de l&apos;environnement local à Korba.
             </p>
           </div>
 
@@ -91,11 +91,11 @@ export default function AboutPage() {
                 <div className="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center">
                   <span className="text-primary-600 font-bold">2014</span>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 ml-4">Fondation de l'association</h3>
+                <h3 className="text-xl font-semibold text-gray-900 ml-4">Fondation de l&apos;association</h3>
               </div>
-              <p className="text-gray-600">
-                Création officielle de l'ATPNE par un groupe de 15 bénévoles déterminés à agir 
-                pour la protection de l'environnement local.
+                <p className="text-gray-600">
+                Création officielle de l&apos;ATPNE par un groupe de 15 bénévoles déterminés à agir 
+                pour la protection de l&apos;environnement local.
               </p>
             </div>
 
@@ -130,11 +130,11 @@ export default function AboutPage() {
                 <div className="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center">
                   <span className="text-primary-600 font-bold">2024</span>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 ml-4">Aujourd'hui</h3>
+                <h3 className="text-xl font-semibold text-gray-900 ml-4">Aujourd&apos;hui</h3>
               </div>
               <p className="text-gray-600">
                 Plus de 500 membres actifs, 25 projets réalisés, et une reconnaissance nationale 
-                de nos actions pour l'environnement.
+                de nos actions pour l&apos;environnement.
               </p>
             </div>
           </div>
@@ -170,7 +170,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Collaboration</h3>
               <p className="text-gray-600">
-                Nous croyons en la force du travail collectif et en l'importance des partenariats.
+                Nous croyons en la force du travail collectif et en l&apos;importance des partenariats.
               </p>
             </div>
 
@@ -180,7 +180,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Excellence</h3>
               <p className="text-gray-600">
-                Nous visons l'excellence dans tous nos projets et nos initiatives environnementales.
+                Nous visons l&apos;excellence dans tous nos projets et nos initiatives environnementales.
               </p>
             </div>
           </div>
