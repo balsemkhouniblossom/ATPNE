@@ -7,7 +7,7 @@ export default function CallToAction() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center text-white">
           <h2 className="text-3xl md:text-4xl font-display font-bold mb-6">
-            Rejoignez notre mission pour l'environnement
+            Rejoignez notre mission pour l&apos;environnement
           </h2>
           <p className="text-xl md:text-2xl mb-12 text-gray-100 max-w-3xl mx-auto">
             Ensemble, nous pouvons faire la différence. Votre engagement compte pour préserver la nature et sensibiliser les générations futures.
@@ -27,7 +27,7 @@ export default function CallToAction() {
                 href="/membership"
                 className="inline-flex items-center text-white hover:text-gray-200 font-medium"
               >
-                S'inscrire maintenant
+                S&apos;inscrire maintenant
                 <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
             </div>

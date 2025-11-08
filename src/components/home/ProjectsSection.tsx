@@ -63,7 +63,7 @@ export default function ProjectsSection() {
             Nos projets en action
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Découvrez les projets que nous menons pour la protection de l'environnement et la sensibilisation écologique
+            Découvrez les projets que nous menons pour la protection de l&apos;environnement et la sensibilisation écologique
           </p>
         </div>
 

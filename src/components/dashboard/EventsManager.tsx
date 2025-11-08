@@ -72,7 +72,7 @@ export default function EventsManager() {
       <div className="mt-4">
         <h4 className="text-lg font-medium mb-2">Événements à venir</h4>
         {upcoming.length === 0 ? (
-          <div className="text-sm text-gray-500">Aucun événement pour l'instant.</div>
+          <div className="text-sm text-gray-500">Aucun événement pour l&apos;instant.</div>
         ) : (
           <ul className="space-y-3">
             {upcoming.map((ev) => (

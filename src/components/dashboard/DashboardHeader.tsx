@@ -9,7 +9,7 @@ export default function DashboardHeader() {
       <div className="flex items-center gap-4">
         <div>
           <h2 className="text-2xl font-semibold text-gray-800">Tableau de bord</h2>
-          <p className="text-sm text-gray-600">Vue d'ensemble — indicateurs & actions rapides</p>
+          <p className="text-sm text-gray-600">Vue d&apos;ensemble — indicateurs &amp; actions rapides</p>
         </div>
         <div className="hidden sm:block">
           <PlantIllustration className="w-20 h-20" />

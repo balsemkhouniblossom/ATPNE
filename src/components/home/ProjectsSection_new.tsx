@@ -60,7 +60,7 @@ export default function ProjectsSection() {
             🌱 Nos projets en action
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Découvrez les initiatives concrètes de l'ATPNE pour la protection de l'environnement 
+            Découvrez les initiatives concrètes de l&apos;ATPNE pour la protection de l&apos;environnement 
             et la préservation de la biodiversité à Korba et dans toute la Tunisie.
           </p>
         </div>

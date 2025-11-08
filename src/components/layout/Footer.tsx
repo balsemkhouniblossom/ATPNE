@@ -13,7 +13,7 @@ export default function Footer() {
               <Logo variant="full" size="md" className="text-white" />
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
-              Association Tunisienne de Protection de la Nature et de l'Environnement de Korba. 
+              Association Tunisienne de Protection de la Nature et de l&apos;Environnement de Korba. 
               Ensemble pour préserver notre patrimoine naturel et construire un avenir durable.
             </p>
             <div className="flex space-x-4">

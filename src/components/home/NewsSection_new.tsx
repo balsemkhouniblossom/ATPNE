@@ -45,7 +45,7 @@ export default function NewsSection() {
             📰 Nos dernières actualités
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Découvrez nos actions récentes et les dernières nouvelles de l'association ATPNE
+            Découvrez nos actions récentes et les dernières nouvelles de l&apos;association ATPNE
           </p>
         </div>
 

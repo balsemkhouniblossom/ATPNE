@@ -27,7 +27,7 @@ export default function Hero() {
             Association Tunisienne de 
             <span className="text-green-500 block animate-slide-up">Protection de la Nature</span>
             <span className="text-blue-500 text-2xl md:text-4xl block mt-4 animate-slide-up">
-              et de l'Environnement de Korba
+              et de l&apos;Environnement de Korba
             </span>
           </h1>
 
@@ -62,7 +62,7 @@ export default function Hero() {
               href="/membership"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-300 flex items-center justify-center gap-3 shadow-xl hover:shadow-2xl transform hover:-translate-y-1 hover:scale-105"
             >
-              Rejoindre l'association
+              Rejoindre l&apos;association
               <ArrowRight className="w-6 h-6" />
             </Link>
             <Link

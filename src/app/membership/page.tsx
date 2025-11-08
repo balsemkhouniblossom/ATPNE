@@ -73,7 +73,7 @@ export default function MembershipPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-display font-bold text-gray-900 mb-6">
-              Rejoignez l'ATPNE
+              Rejoignez l&apos;ATPNE
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Ensemble, agissons pour la protection de notre environnement et 
@@ -91,7 +91,7 @@ export default function MembershipPage() {
               Pourquoi devenir membre ?
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              En devenant membre de l'ATPNE, vous rejoignez une communauté engagée 
+              En devenant membre de l&apos;ATPNE, vous rejoignez une communauté engagée 
               et bénéficiez de nombreux avantages.
             </p>
           </div>
@@ -150,7 +150,7 @@ export default function MembershipPage() {
               </div>
               <div className="flex items-center space-x-3">
                 <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
-                <span className="text-gray-700">Participation aux décisions de l'association</span>
+                <span className="text-gray-700">Participation aux décisions de l&apos;association</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
@@ -162,7 +162,7 @@ export default function MembershipPage() {
               </div>
               <div className="flex items-center space-x-3">
                 <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
-                <span className="text-gray-700">Certificat de membre de l'ATPNE</span>
+                <span className="text-gray-700">Certificat de membre de l&apos;ATPNE</span>
               </div>
             </div>
           </div>
@@ -271,13 +271,13 @@ export default function MembershipPage() {
                   onChange={handleChange}
                   rows={4}
                   className="form-textarea"
-                  placeholder="Parlez-nous de votre intérêt pour l'environnement et de vos motivations à rejoindre l'ATPNE..."
+                  placeholder="Parlez-nous de votre intérêt pour l'environnement et de vos motivations à rejoindre l&apos;ATPNE..."
                 />
               </div>
 
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
                 <p className="text-sm text-blue-800">
-                  <strong>Note :</strong> L'adhésion à l'ATPNE est gratuite. 
+                  <strong>Note :</strong> L&apos;adhésion à l&apos;ATPNE est gratuite. 
                   Votre demande sera examinée par notre équipe et nous vous contacterons sous 48 heures.
                 </p>
               </div>
