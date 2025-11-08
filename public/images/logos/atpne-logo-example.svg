@@ -1,0 +1,19 @@
+<!-- Fichier SVG temporaire pour tester -->
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="50" fill="none"/>
+  
+  <!-- Icon circle -->
+  <circle cx="25" cy="25" r="18" fill="#22c55e"/>
+  
+  <!-- Leaf icon -->
+  <path d="M20 30 Q25 20 30 30 Q25 35 20 30" fill="white"/>
+  <line x1="25" y1="30" x2="25" y2="35" stroke="white" stroke-width="2"/>
+  
+  <!-- Text ATPNE -->
+  <text x="55" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">ATPNE</text>
+  
+  <!-- Subtitle -->
+  <text x="55" y="35" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Association Tunisienne</text>
+  <text x="55" y="45" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Protection Nature</text>
+</svg>
