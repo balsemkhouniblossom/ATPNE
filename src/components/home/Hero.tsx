@@ -52,7 +52,7 @@ export default function Hero() {
             <div className="bg-white/90 backdrop-blur-sm rounded-xl p-6 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
               <Heart className="w-12 h-12 text-orange-500 mx-auto mb-4" />
               <div className="text-4xl font-bold text-gray-800 mb-2">15</div>
-              <div className="text-gray-600 font-medium">Années d'expérience</div>
+              <div className="text-gray-600 font-medium">Années d&apos;expérience</div>
             </div>
           </div>
 

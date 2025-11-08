@@ -21,7 +21,7 @@ export default function CallToAction() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Devenir membre</h3>
               <p className="text-gray-100 mb-4">
-                Rejoignez notre communauté de 500+ membres passionnés par la protection de l'environnement.
+                Rejoignez notre communauté de 500+ membres passionnés par la protection de l&apos;environnement.
               </p>
               <Link
                 href="/membership"

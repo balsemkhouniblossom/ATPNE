@@ -36,12 +36,12 @@ export default function MembershipPage() {
   if (submitted) {
     return (
       <div className="pt-16 min-h-screen flex items-center justify-center bg-gray-50">
-        <div className="max-w-md mx-auto text-center p-8">
+          <div className="max-w-md mx-auto text-center p-8">
           <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
             <Check className="w-8 h-8 text-green-600" />
           </div>
           <h1 className="text-2xl font-bold text-gray-900 mb-4">
-            Demande d'adhésion envoyée !
+            Demande d&apos;adhésion envoyée !
           </h1>
           <p className="text-gray-600 mb-6">
             Merci pour votre intérêt ! Nous examinerons votre demande et vous contacterons sous peu.
@@ -105,7 +105,7 @@ export default function MembershipPage() {
                 Communauté engagée
               </h3>
               <p className="text-gray-600">
-                Rejoignez plus de 500 membres passionnés par la protection de l'environnement.
+                Rejoignez plus de 500 membres passionnés par la protection de l&apos;environnement.
               </p>
             </div>
 
@@ -174,7 +174,7 @@ export default function MembershipPage() {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-display font-bold text-gray-900 mb-6">
-              Formulaire d'adhésion
+              Formulaire d&apos;adhésion
             </h2>
             <p className="text-lg text-gray-600">
               Remplissez le formulaire ci-dessous pour rejoindre notre association.
@@ -262,7 +262,7 @@ export default function MembershipPage() {
 
               <div>
                 <label htmlFor="interests" className="block text-sm font-medium text-gray-700 mb-2">
-                  Centres d'intérêt et motivations
+                  Centres d&apos;intérêt et motivations
                 </label>
                 <textarea
                   id="interests"

@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Image from 'next/image'
 import { Users, Target, Heart, Award } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -62,10 +63,12 @@ export default function AboutPage() {
               </div>
             </div>
             <div className="relative">
-              <img
+              <Image
                 src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
                 alt="Notre mission"
-                className="rounded-xl shadow-lg"
+                width={600}
+                height={400}
+                className="rounded-xl shadow-lg object-cover"
               />
             </div>
           </div>

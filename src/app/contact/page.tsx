@@ -74,7 +74,7 @@ export default function ContactPage() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Une question, une suggestion, ou envie de nous rejoindre ? 
-              N'hésitez pas à nous contacter, nous serons ravis de vous répondre.
+              N&apos;hésitez pas à nous contacter, nous serons ravis de vous répondre.
             </p>
           </div>
         </div>
@@ -214,10 +214,10 @@ export default function ContactPage() {
                     className="form-input"
                   >
                     <option value="">Choisissez un sujet</option>
-                    <option value="adhesion">Demande d'adhésion</option>
+                    <option value="adhesion">Demande d&apos;adhésion</option>
                     <option value="benevolat">Bénévolat</option>
                     <option value="partenariat">Proposition de partenariat</option>
-                    <option value="information">Demande d'information</option>
+                    <option value="information">Demande d&apos;information</option>
                     <option value="evenement">Événements</option>
                     <option value="autre">Autre</option>
                   </select>

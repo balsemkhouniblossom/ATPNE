@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Image from 'next/image'
 import Link from 'next/link'
 import { Clock, User, ArrowRight } from 'lucide-react'
 
@@ -87,7 +88,7 @@ export default function NewsPage() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Restez informés de toutes nos actions, projets et événements 
-              pour la protection de l'environnement à Korba.
+              pour la protection de l&apos;environnement à Korba.
             </p>
           </div>
         </div>
@@ -120,9 +121,11 @@ export default function NewsPage() {
             {newsData.map((article) => (
               <article key={article.id} className="card group">
                 <div className="relative overflow-hidden rounded-t-xl">
-                  <img
+                  <Image
                     src={article.image}
                     alt={article.title}
+                    width={600}
+                    height={400}
                     className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                   <div className="absolute top-4 left-4">
@@ -166,7 +169,7 @@ export default function NewsPage() {
           {/* Load More Button */}
           <div className="text-center mt-12">
             <button className="btn-outline">
-              Charger plus d'actualités
+              Charger plus d&apos;actualités
             </button>
           </div>
         </div>
@@ -190,7 +193,7 @@ export default function NewsPage() {
                 className="flex-1 px-4 py-3 rounded-lg text-gray-900 focus:outline-none focus:ring-2 focus:ring-white"
               />
               <button className="bg-white text-primary-600 hover:bg-gray-100 font-semibold py-3 px-6 rounded-lg transition-colors duration-200">
-                S'inscrire
+                S&apos;inscrire
               </button>
             </div>
             <p className="text-sm text-gray-200 mt-4">

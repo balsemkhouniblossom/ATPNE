@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { MapPin, Calendar, Eye, ArrowRight } from 'lucide-react'
 
 // Données fictives pour les projets
@@ -72,9 +73,11 @@ export default function ProjectsSection() {
           {projectsData.map((project) => (
             <div key={project.id} className="card group">
               <div className="relative overflow-hidden rounded-t-xl">
-                <img
+                <Image
                   src={project.image}
                   alt={project.title}
+                  width={600}
+                  height={400}
                   className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute top-4 left-4">
